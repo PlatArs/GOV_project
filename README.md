@@ -27,6 +27,8 @@
 
 
  ### 3. Информация о данных
+- [Подготовленные данные](https://disk.yandex.ru/d/1z8OhKavqqEH4g)
+
 - Источник данных — проект [«Открытые НКО»](https://openngo.ru/)
 - Дамп данных в формате JSON (от 26.08.2021)
 - Описание полей на [GitHub](https://github.com/infoculture/openngo-data-reference/wiki/Характеристики-и-расшифровки-открытых-данных)
